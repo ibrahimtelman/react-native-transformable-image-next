@@ -12,7 +12,7 @@ Written in pure JS, this component should be one of the most easy to use compone
 
 ## Install
 
- `npm install --save react-native-transformable-image-next@latest`
+ `npm install --save react-native-transformable-image-plus@latest`
 
 
 
